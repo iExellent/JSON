@@ -1,4 +1,9 @@
-123
-321
-456
-"Moscow"
+{"full_name": "Zakharov Kirill",
+"age": 27,
+"pets": 0,
+"child": {"name": "Samuel",
+	  "age": 1,
+	  "gender": "male"
+},
+"desired_salary": "600$"
+}
