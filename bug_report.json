@@ -14,6 +14,7 @@
                          "5": "Seen an error page 'ORA1090 Exception: Insert values Error…'",
                          "6": "See the attached logs for more information",
                          "7": "Also see the attached screenshot of the error page"},
+  "Attachment": "https://yadi.sk/i/3iBksjLj4ssW",
   "Actual result": "On clicking the SAVE button, application crash",
   "Expected result": "On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'"
 } 
