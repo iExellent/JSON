@@ -1,6 +1,6 @@
 { 
 "skills": ["software testing theory",
-	"client_server architecture",
+	"client-server architecture",
 	"HTTP server request methods",
 	"HTTP server response codes",
 	"structures of HTTP requests and responses",
