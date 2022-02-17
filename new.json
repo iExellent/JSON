@@ -1,7 +1,7 @@
 {"full_name": "Zakharov Kirill",
 "age": 27,
 "pets": 0,
-"child": {"name": "Samuel",
+"children": {"name": "Samuel",
 	  "age": 1,
 	  "gender": "male"
 },
